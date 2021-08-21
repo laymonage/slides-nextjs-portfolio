@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export --dark && mv ./slides-export.pdf public/"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.22.7",
+    "playwright-chromium": "^1.14.0",
+    "slidev-theme-geist": "github:laymonage/slidev-theme-geist"
+  },
+  "name": "portfolio"
+}
