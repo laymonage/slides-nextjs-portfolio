@@ -1,11 +1,16 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Building a Portfolio Website with Next.js
 
-To start the slide show:
+Talk given at Worship by FUKI Corp (2021-08-21).
+Made with [slidev][slidev].
+
+To start the slide show locally:
 
 - `npm install`
 - `npm run dev`
 - visit http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
+View online at
+[slides.laymonage.com/nextjs-portfolio][slides-nextjs-portfolio].
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+[slidev]: https://sli.dev
+[slides-nextjs-portfolio]: https://slides.laymonage.com/nextjs-portfolio
