@@ -179,7 +179,7 @@ preload: false
 
 - ➖ Can't be tailored to individual visitors
 - ➖ Functionalities limited by client and premade assets
-- ➖ Impossible to store secrets for external API authentication
+- ➖ Unable to store external API secrets
 
 </v-clicks>
 
@@ -199,7 +199,7 @@ preload: false
 
 - ➕ Can provide tailored experience
 - ➕ More powerful and flexible
-- ➕ Allows secure authenticated interaction with external APIs
+- ➕ Allows secure authentication for external APIs
 
 - ➖ Slower compared to static websites
 - ➖ Require knowledge of backend programming
